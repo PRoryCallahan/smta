@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on Magister Callahan&#39;s Homepage</title>
+    <link>http://patrickrcallahan.com/smta/announcements/</link>
+    <description>Recent content in Announcements on Magister Callahan&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2021 20:47:15 -0600</lastBuildDate><atom:link href="http://patrickrcallahan.com/smta/announcements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Site Coming Soon...</title>
+      <link>http://patrickrcallahan.com/smta/announcements/newsite/</link>
+      <pubDate>Mon, 01 Mar 2021 20:47:15 -0600</pubDate>
+      
+      <guid>http://patrickrcallahan.com/smta/announcements/newsite/</guid>
+      <description>Because of the nature of Latin instruction, the use of Google Sites to host content for SMTA Latin instruction had proved untenable because of its inability to natively run many features necessary for language instruction, for example, tables.
+Please be patient while this new site is built as I am writing all the code myself.</description>
+    </item>
+    
+  </channel>
+</rss>

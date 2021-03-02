@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Magister Callahan&#39;s Homepage</title>
+    <title>Parents on Magister Callahan&#39;s Homepage</title>
     <link>http://patrickrcallahan.com/smta/parents/</link>
-    <description>Recent content on Magister Callahan&#39;s Homepage</description>
+    <description>Recent content in Parents on Magister Callahan&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://patrickrcallahan.com/smta/parents/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Feb 2021 15:27:04 -0600</lastBuildDate><atom:link href="http://patrickrcallahan.com/smta/parents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>John Senior&#39;s List of 1000 Good Books</title>
+      <link>http://patrickrcallahan.com/smta/parents/1000goodbooks/</link>
+      <pubDate>Sun, 28 Feb 2021 15:27:04 -0600</pubDate>
+      
+      <guid>http://patrickrcallahan.com/smta/parents/1000goodbooks/</guid>
+      <description>The following is John Senior&amp;rsquo;s List of 1000 Good Books which can be found at the end of his most famous work, The Death of Christian Culture.
+A word of warning: The last thing you should do is treat this list as an authoritative syllabus which you must follow every step of your child&amp;rsquo;s development at precisely the right age. Inside The Death of Christian Culture John Senior himself warned against those who compile &amp;ldquo;itchy lists&amp;rdquo;.</description>
+    </item>
+    
   </channel>
 </rss>

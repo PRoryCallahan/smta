@@ -5,6 +5,27 @@
     <link>http://patrickrcallahan.com/smta/</link>
     <description>Recent content on Magister Callahan&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://patrickrcallahan.com/smta/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2021 20:47:15 -0600</lastBuildDate><atom:link href="http://patrickrcallahan.com/smta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Site Coming Soon...</title>
+      <link>http://patrickrcallahan.com/smta/announcements/newsite/</link>
+      <pubDate>Mon, 01 Mar 2021 20:47:15 -0600</pubDate>
+      
+      <guid>http://patrickrcallahan.com/smta/announcements/newsite/</guid>
+      <description>Because of the nature of Latin instruction, the use of Google Sites to host content for SMTA Latin instruction had proved untenable because of its inability to natively run many features necessary for language instruction, for example, tables.
+Please be patient while this new site is built as I am writing all the code myself.</description>
+    </item>
+    
+    <item>
+      <title>John Senior&#39;s List of 1000 Good Books</title>
+      <link>http://patrickrcallahan.com/smta/parents/1000goodbooks/</link>
+      <pubDate>Sun, 28 Feb 2021 15:27:04 -0600</pubDate>
+      
+      <guid>http://patrickrcallahan.com/smta/parents/1000goodbooks/</guid>
+      <description>The following is John Senior&amp;rsquo;s List of 1000 Good Books which can be found at the end of his most famous work, The Death of Christian Culture.
+A word of warning: The last thing you should do is treat this list as an authoritative syllabus which you must follow every step of your child&amp;rsquo;s development at precisely the right age. Inside The Death of Christian Culture John Senior himself warned against those who compile &amp;ldquo;itchy lists&amp;rdquo;.</description>
+    </item>
+    
   </channel>
 </rss>
